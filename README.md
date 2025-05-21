@@ -1,18 +1,8 @@
 # Student-Database-using-Singly-linked-list
-==========PROJECT TITLE==============
-# STUDENT DATABASE MANAGEMENT SYSTEM
-=====================================
-
-=====================================
-#Owner :Gujjula Niharika.
-#Language :C
-======================================
 
 ##OBJECTIVE:
 ------------
 This is a menu-driven Student Database System in C using Singly Linked List (SLL), File Handling, and Dynamic Memory Allocation (DMA). The program allows managing student records with features like adding, editing, deleting, searching, saving, and reverse displaying the list of students.
-
-
 
 ## FEATURES:
 ------------
@@ -26,8 +16,6 @@ This is a menu-driven Student Database System in C using Singly Linked List (SLL
 ✔ Display all student records in reverse order
 ✔ Auto-generate unique Student ID
 ✔ Persistent alphabet counter using file `alpha_counts.dat`
-
----
 
 ## UNIQUE STUDENT ID FORMAT:
 ---------------------------
